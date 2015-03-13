@@ -1,4 +1,5 @@
 \\Boa tarde ;)
+\\Boa noite
 #include <stdio.h>
 
 void main() {
